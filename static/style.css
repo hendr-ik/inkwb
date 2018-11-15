@@ -345,7 +345,7 @@ vertical-align: -1px;
 
 
 /* Bottom ––––––––––––––––––––––––––––––––––––––– */
-.t-topBar__wrapper {
+.t-clearButton__wrapper {
 float: left;
 }
 
@@ -393,13 +393,13 @@ color: var(--color_white);
 }
 
 /* Button erease */
-.t-topBar__button {
+.t-clearButton__button {
 padding: 5px 10px 7px 10px;
 margin: 2px 0 0 0;
 background-color: var(--color_background_content);
 }
 
-.t-topBar__button svg path{
+.t-clearButton__button svg path{
 fill: var(--color_credits);
 }
 
@@ -689,7 +689,7 @@ margin: 0 0 10px 0;
 margin: 2px 20px 2px 20px;
 }
 
-.t-topBar__wrapper {
+.t-clearButton__wrapper {
 margin: 0 0 0 8px;
 }
 
@@ -697,7 +697,7 @@ margin: 0 0 0 8px;
 margin: 0 8px 0 0;
 }
 
-.t-topBar__button {
+.t-clearButton__button {
 padding: 10px 10px 8px 10px;
 margin: 2px 0 0 0;
 }
